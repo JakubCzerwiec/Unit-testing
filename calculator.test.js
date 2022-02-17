@@ -1,4 +1,4 @@
-const { multipla } = require('./calculator');
+
 const calculator = require('./calculator');
 
 it('adding', () => 
