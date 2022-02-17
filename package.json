@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Odin project unit testing exercise",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakubCzerwiec/Unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakubCzerwiec/Unit-testing/issues"
+  },
+  "homepage": "https://github.com/JakubCzerwiec/Unit-testing#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
